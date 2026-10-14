@@ -1,0 +1,8 @@
+{
+  "name": "Adiba Hospital Manajmant Softowar",
+  "description": "Comprehensive clinical management system with Pathology reporting, Billing, Doctor OPD, ECG, X-Ray, Ultrasound, customizable Settings, and Doctor Web Portal in Bengali \u0026 English.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
